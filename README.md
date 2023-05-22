@@ -1,1 +1,1 @@
-# jenkins-1st-pipeline
+# django-jenkins
